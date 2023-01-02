@@ -37,6 +37,10 @@ body {
 a[class~="nav-link"]:hover {
     border-bottom: 3px solid white;
 }
+.logo {
+  width: 70px; 
+  height: 40px;
+}
 
 h1 {
     font-size: 40px;
